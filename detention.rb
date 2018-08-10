@@ -32,7 +32,7 @@ class Detention
   end
   
   def activity
-    return "collective punishment"
+    return @activity
   end
   
   def students 
